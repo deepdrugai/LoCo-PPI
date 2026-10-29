@@ -50,7 +50,4 @@ Reproduce them with python src/models/export_model.py.
 The comparison also needs the NECARE code, adapted to DGL 2.3; it is kept separately and its
 predictions are written to results/necare/ before mcnemar_compare.py is run.
 
-## Citation
 
-Ghimire A, Alvin C, Mukhopadhyay S. Predicting Co-expression Loss in the Cancer Interactome for
-Unseen Genes.
