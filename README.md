@@ -21,7 +21,7 @@ rebuilt from the gene matrix by the pairing step below. Original sources are pub
 HIPPIE, TCGA (via the GDC), NECARE, LINCS L1000, Reactome, Gene Ontology, UniProt, and the Broad
 Drug Repurposing Hub.
 
-    Zenodo: <DOI>
+    Zenodo: https://doi.org/10.5281/zenodo.23756486
 
 ## Scripts and order to run
 
